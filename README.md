@@ -1,4 +1,4 @@
-# CFDT Trader OS
+# head first stock investment- build your Trade OS
 
 ## AI驱动的个人交易操作系统
 
