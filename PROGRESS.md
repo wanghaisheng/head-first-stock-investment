@@ -1,4 +1,4 @@
-# CFDT Trader OS 修订进度
+# Head First Stock Investment 修订进度
 
 > 更新时间：2026-07-21
 
@@ -35,7 +35,7 @@
 ### 3. 第七卷与第八卷边界修复
 
 - `7-2.md` 已统一为正式 Chapter 35。
-- `7-11.md` 已补齐为 Chapter 44：CFDT Browser Intelligence System。
+- `7-11.md` 已补齐为 Chapter 44：Browser Intelligence System。
 - `8-1.md`、`8-2.md`、`8-3.md` 已归入第八卷 Trading Memory & Coaching。
 - `8-3.md` 尾部已移除与 Chapter 44 重复的 Browser Intelligence 预告。
 
@@ -43,7 +43,7 @@
 
 - `REVISION_PLAN.md`：修订计划。
 - `chapter-template.md`：统一章节模板。
-- `glossary.md`：术语表第一版。
+- `glossary.md`：术语表第一版，已将面向读者的主名称统一为“资金驱动趋势交易体系”。
 - `models-index.md`：模型索引第一版。
 - `rules-index.md`：规则索引第一轮自动抽取。
 - `data-schema.md`：数据字段草案。
