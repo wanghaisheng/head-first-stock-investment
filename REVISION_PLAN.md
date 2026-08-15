@@ -1,8 +1,8 @@
-# CFDT Trader OS 修订计划
+# Head First Stock Investment 修订计划
 
 ## 修订目标
 
-把当前分散的章节草稿整理为一套可阅读、可发布、可继续产品化的电子书结构。
+把当前分散的章节草稿整理为一套面向普通投资者、可阅读、可发布、可继续产品化的电子书结构。
 
 当前阶段不优先新增章节，优先完成：
 
@@ -60,7 +60,7 @@
 - 旧稿不直接删除，先标记为“素材”或“导言”。
 - 正式出版章节以 `6-5.md` 到 `6-14.md`、`7-2.md` 到 `7-10.md` 为主线。
 - 已完成第一轮章节头修复：`7-2.md` 改为 Chapter 35，`8-1.md` 到 `8-3.md` 改归第八卷。
-- 已补齐 Chapter 44：`7-11.md` CFDT Browser Intelligence System。
+- 已补齐 Chapter 44：`7-11.md` Browser Intelligence System。
 - 已处理 Chapter 48 与 Chapter 44 的重复预告，Chapter 48 暂不占用。
 - 已处理第六卷旧稿编号冲突：`6-1.md`、`6-2.md`、`6-3.md` 改为旧稿素材，`6-4.md` 改为第六卷导言。
 
@@ -100,7 +100,7 @@
 
 | 文件 | 目的 |
 | --- | --- |
-| `glossary.md` | 统一 CFDT 术语定义，已完成第一版 |
+| `glossary.md` | 统一“资金驱动趋势交易体系”等核心术语，已完成第一版 |
 | `rules-index.md` | 汇总 Rule 001 到 Rule 106，已完成第一轮自动抽取 |
 | `models-index.md` | 汇总所有模型、输入、输出、阈值、动作，已建立第一版 |
 | `data-schema.md` | 为交易数据库与 Dashboard 定义字段，已建立草案 |

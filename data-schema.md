@@ -1,6 +1,6 @@
-# CFDT Trader OS 数据字段草案
+# Head First Stock Investment 数据字段草案
 
-> 本文件为后续交易数据库、Dashboard、Risk Agent、Review Agent 与 Trading Coach Agent 提供字段边界。当前为第一版草案，后续应与 Chapter 22、Chapter 40、Chapter 45-47 对齐。
+> 本文件为后续个人交易数据库、Dashboard、Risk Agent、Review Agent 与 Trading Coach Agent 提供字段边界。当前为第一版草案，后续应与 Chapter 22、Chapter 40、Chapter 45-47 对齐。
 
 ## 1. MarketSnapshot
 
